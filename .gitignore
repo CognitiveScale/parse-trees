@@ -8,3 +8,8 @@ projectFilesBackup
 .cache-main
 .settings
 build.properties
+.idea
+.idea/
+*.idea
+*.iml
+.iml/
